@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": 25,
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "skills": ["Python", "SQL", "Spark"]
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+    "age": 30,
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "skills": ["Java", "SQL", "Azure"]
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "age": 22,
+    "address": {
+      "city": "Tashkent",
+      "country": "Uzbekistan"
+    },
+    "skills": ["Python", "PySpark"]
+  },
+  {
+    "id": 4,
+    "name": "Sarah",
+    "age": 28,
+    "address": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "skills": ["Scala", "Spark", "Databricks"]
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "age": 27,
+    "address": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "skills": ["Python", "SQL", "Fabric"]
+  }
+]
